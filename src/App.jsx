@@ -6,10 +6,6 @@ import LoginReact19 from "./components/login-react-19";
 function App() {
   return (
     <div>
-      <LoginOld />
-      <hr />
-      <LoginAction />
-      <hr />
       <LoginReact19 />
     </div>
   );
